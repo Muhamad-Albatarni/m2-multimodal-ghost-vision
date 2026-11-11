@@ -1,0 +1,5 @@
+build/
+models/
+coreml_cache/
+.DS_Store
+*.user
